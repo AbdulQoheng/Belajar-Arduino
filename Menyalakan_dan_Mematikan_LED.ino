@@ -10,8 +10,8 @@ void loop() {
   // put your main code here, to run repeatedly:
 
   digitalWrite(PinLed, HIGH); // Memberi nilai HIGH atau 1 pada pin 13
-  delay(1000); // Memberikan waktu dengan satuan milisecond
+  delay(200); // Memberikan waktu dengan satuan milisecond
   digitalWrite(PinLed, LOW); // Memberi nilai LOW atau 0 pada pin 13
-  delay(500); // Memberikan waktu
+  delay(300); // Memberikan waktu
 
 }
