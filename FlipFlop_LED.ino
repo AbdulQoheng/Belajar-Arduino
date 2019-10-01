@@ -12,9 +12,9 @@ void loop() {
   // put your main code here, to run repeatedly:
   digitalWrite(led1, HIGH); // led1 akan menyala
   digitalWrite(led2, LOW);  // led2 akan mati
-  delay(200); // waktu 200 ms
+  delay(300); // waktu 200 ms
   digitalWrite(led1, LOW); // led1 mati
   digitalWrite(led2, HIGH); // led2 menyala
-  delay(200); // waktu 200 ms
+  delay(300); // waktu 200 ms
 
 }
